@@ -1,2 +1,2 @@
 # eclipse
-Integração da IDT Eclipse com o GitHub
+Integração da IDE Eclipse com o GitHub
